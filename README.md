@@ -9,7 +9,7 @@ Projeto desenvolvido em **Unity (C#)** com estética **Pixel Art**, criado para 
 ---
 
 ## 🚀 Tecnologias
-- Unity (versão recomendada: **2025+**)  
+- Unity 6000.1.9f1 (versão recomendada: **2025+**)  
 - C#  
 - Pixel Art
 
